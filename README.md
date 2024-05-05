@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahnoor Liaquat Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" width="400" alt="animated image" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3kgZDPL_D7RIIRchxf93jY&ust=1715022915380000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCk0qac94UDFQAAAAAdAAAAABAE"/>
+<img align="right" width="400" alt="animated image" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnoor-liaquat&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoor-liaquat" /> </p>
 
