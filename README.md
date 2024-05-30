@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnoor-liaquat&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoor-liaquat" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mahnoor-liaquat-ali-5120621a0/](https://www.linkedin.com/in/mahnoor-liaquat-ali-5120621a0/)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/mahnoor-liaquat-ali3](https://www.linkedin.com/in/mahnoor-liaquat-ali-5120621a0/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
